@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diaa
-- 👀 I’m interested in Game Development !
-- 🌱 I’m currently learning C#, Unity, Maths !
+- 👀 I’m interested in Game & software Development !
+- 🌱 I’m currently learning Java, andriod studi and Maths !
 - 💞️ I’m looking to collaborate on ...
 - 📫 Twitter : @xLeDiaa
 
